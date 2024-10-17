@@ -1,5 +1,6 @@
-# Hello, I'm Rach, currently im working in BPJSTK indo !
-👋
+# Hello, I'm Rach👋
+currently im working in BPJSTK indo !
+
 
 ## About Me
 I am fullstack engineer but mainly focused on backend end 
